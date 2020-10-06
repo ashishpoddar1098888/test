@@ -1,1 +1,1 @@
-# this is used for testing purpose.
+# this is used for testing purpose only.
